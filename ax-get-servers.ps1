@@ -3,8 +3,8 @@
 ### Jan 28, 2022.
 
 #Define your API Key and Org ID
-$apiKey = '861897b2-44b1-41c2-8606-7843a0d283e9'
-$orgID = '9999'
+$apiKey = ''
+$orgID = ''
 
 #Define the URL to pull data from using your info above
 $uri = "https://console.automox.com/api/servers?o=$orgID&api_key=$apiKey"
